@@ -10,6 +10,7 @@ setup(
     install_requires=[
         "flask-socketio>=4.3.0",
         "flask>=1.1.2",
-        "python-dotenv>=0.13.0"
+        "python-dotenv>=0.13.0",
+        "pony>=0.7.13"
     ]
 )
